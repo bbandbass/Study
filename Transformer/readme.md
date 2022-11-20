@@ -1,7 +1,17 @@
 
+
+
+
+
 # 🤗Transformers (신경망 언어모델 라이브러리) 강좌
 
+
+
+
 * 지은이 : 최성필
+* 링크: https://wikidocs.net/book/8056
+
+
 
 0. 본 강좌를 공부하기 위해 기본적으로 준비해야할 사항들 (Setup)
 1. 트랜스포머 모델 (Transformer models)
@@ -13,4 +23,4 @@
 7. 주요 NLP 태스크 (Main NLP Tasks)
 8. 도움 요청 방법 (How to ask for help)
 
-링크: https://wikidocs.net/book/8056
+
